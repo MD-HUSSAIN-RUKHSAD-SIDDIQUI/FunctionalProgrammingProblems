@@ -14,8 +14,8 @@ namespace PracticeFunctionalProgram
             //VowelConsonant.Check();
             //SwapNumber.SwapTheNumber();
             //SwapNumber.SwapNumberWithoutVeriable();
-            QuotientAndRemainder.Find();
-
+            //QuotientAndRemainder.Find();
+            LargestNum.Find();
             Console.ReadKey();
         }
     }
