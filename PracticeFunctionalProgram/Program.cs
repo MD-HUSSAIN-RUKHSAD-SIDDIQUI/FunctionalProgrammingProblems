@@ -11,6 +11,7 @@ namespace PracticeFunctionalProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Functional Programming Practice");
+            VowelConsonant.Check();
             Console.ReadKey();
         }
     }
