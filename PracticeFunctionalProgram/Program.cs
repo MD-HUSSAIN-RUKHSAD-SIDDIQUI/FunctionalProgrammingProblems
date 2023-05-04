@@ -12,8 +12,10 @@ namespace PracticeFunctionalProgram
         {
             Console.WriteLine("Welcome to Functional Programming Practice");
             //VowelConsonant.Check();
-            SwapNumber.SwapTheNumber();
-            SwapNumber.SwapNumberWithoutVeriable();
+            //SwapNumber.SwapTheNumber();
+            //SwapNumber.SwapNumberWithoutVeriable();
+            QuotientAndRemainder.Find();
+
             Console.ReadKey();
         }
     }
