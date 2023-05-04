@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\bin\Debug\PracticeFunctionalProgram.exe.config
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\bin\Debug\PracticeFunctionalProgram.exe
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\bin\Debug\PracticeFunctionalProgram.pdb
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\obj\Debug\PracticeFunctionalProgram.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\obj\Debug\PracticeFunctionalProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\obj\Debug\PracticeFunctionalProgram.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\obj\Debug\PracticeFunctionalProgram.exe
+C:\Users\hp\Desktop\FunctionalProgrammingPractice\PracticeFunctionalProgram\obj\Debug\PracticeFunctionalProgram.pdb
