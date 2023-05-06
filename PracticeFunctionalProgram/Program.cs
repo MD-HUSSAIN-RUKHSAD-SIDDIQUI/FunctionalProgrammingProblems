@@ -16,7 +16,8 @@ namespace PracticeFunctionalProgram
             //SwapNumber.SwapNumberWithoutVeriable();
             //QuotientAndRemainder.Find();
             //LargestNum.Find();
-            EvenOdd1.EvenAndOdd();
+            //EvenOdd1.EvenAndOdd();
+            PrimeFactor.Find(12222);
             Console.ReadKey();
         }
     }
