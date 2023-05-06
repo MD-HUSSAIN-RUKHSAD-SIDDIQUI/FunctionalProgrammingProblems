@@ -17,7 +17,8 @@ namespace PracticeFunctionalProgram
             //QuotientAndRemainder.Find();
             //LargestNum.Find();
             //EvenOdd1.EvenAndOdd();
-            PrimeFactor.Find(12222);
+            //PrimeFactor.Find(12222);
+            LeapYear.Check();
             Console.ReadKey();
         }
     }
