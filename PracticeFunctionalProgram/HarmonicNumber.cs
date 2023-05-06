@@ -20,10 +20,11 @@ namespace PracticeFunctionalProgram
             // loop to apply the formula
             // Hn = H1 + H2 + H3 ... +
             // Hn-1 + Hn-1 + 1/n
-            for (int i = 2; i <= n; i++)
+            for (double i =2; i<=n; i++)
             {
-                harmonic=(harmonic)+(Convert.ToDouble(1 / i));
-                Console.WriteLine(harmonic);
+                Console.WriteLine("Harmonic values :" + harmonic);
+                harmonic =(harmonic)+(Convert.ToDouble(1 / i));
+                //Console.WriteLine("Harmonic values are:"+harmonic);
             }
 
             Console.WriteLine("Nth Harmonic value is:\t"+ harmonic);

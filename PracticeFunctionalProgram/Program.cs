@@ -37,8 +37,8 @@ namespace PracticeFunctionalProgram
                 i = i + 1;
             }
             */
-            Flipcoin.Check();
-            //HarmonicNumber.Find();
+           // Flipcoin.Check();
+            HarmonicNumber.Find();
             Console.ReadKey();
            
         }
